@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Manoj Menon
-- 👀 I’m interested in Web Dev and Software
+- 👀 I’m interested in Web Dev and Software Dev
 - 🌱 I’m currently pursuing MS at NEU
 
 <!---
